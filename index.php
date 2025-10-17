@@ -2,6 +2,13 @@
 
 echo "¡Hola Mundo!";
 
-functio foo () {
+function foo()
+{
     echo "<p>Bar</p>";
 }
+
+function meh()
+{
+    echo "prueba";
+}
+
